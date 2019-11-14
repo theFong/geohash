@@ -21,7 +21,7 @@ License along with Geohash.  If not, see
 from setuptools import setup, find_packages
 setup(
     name = "Geohash",
-    version = "1.0",
+    version = "0.1.0",
     packages = find_packages(),
 
     # Project uses reStructuredText, so ensure that the docutils get
